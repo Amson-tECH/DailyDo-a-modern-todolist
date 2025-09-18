@@ -6,7 +6,7 @@ A sleek, interactive todo list application built with vanilla HTML, CSS, and Jav
 
 ![Todo List Preview](./preview/image.png)
 
-![Todo List Preview](./images/todo-preview.png)
+![Todo List Preview](./preview/image2.png)
 
 ## 🚀 Features
 

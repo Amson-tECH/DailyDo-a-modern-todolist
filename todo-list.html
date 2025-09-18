@@ -12,7 +12,7 @@
 
         <div class="input-container">
             <input type="text" class="task-input" id="taskInput" placeholder="What do you want to do?">
-            <button class="add-Btn" onclick="AddTask()">Add Task</button>
+            <button class="add-Btn" onclick="addTask()">Add Task</button>
         </div>
 
         <div class="stats">
@@ -22,9 +22,9 @@
         </div>
 
         <div class="filter-buttons">
-            <button class="filter-btn active" onclick="filterTask('all')">All</button>
-            <button class="filter-btn" onclick="filterTask('active')">Active</button>
-            <button class="filter-btn" onclick="filterTask('completed')">Completed</button>
+            <button class="filter-btn active" onclick="filterTasks('all')">All</button>
+            <button class="filter-btn" onclick="filterTasks('active')">Active</button>
+            <button class="filter-btn" onclick="filterTasks('completed')">Completed</button>
         </div>
 
         <div class="todo-list" id="todoList">
@@ -34,6 +34,6 @@
         </div>
         </div>
         </div>
-    <script src="todo_list.js"></script>
+   <script src="./todo_list.js"></script>
 </body>
 </html>
