@@ -2,6 +2,8 @@
 
 A sleek, interactive todo list application built with vanilla HTML, CSS, and JavaScript. Features a contemporary glassmorphism design with smooth animations and intuitive user experience.
 
+## Live Demo
+
 ![Todo List Preview](./preview/image.png)
 
 ![Todo List Preview](./images/todo-preview.png)
